@@ -1,4 +1,4 @@
-# DECENTRALIZED EXCHANGER (DEX) For Crypto Devs/ETH AND VICE VERSA WITH LEARNWEB3DAO SOPHOMORE TRACK
+# THE ETHEREUM NAME SERVICE (ENS) SETUP WITH LEARNWEB3DAO SOPHOMORE TRACK
 
 This project demonstrates a process where users can set up an ENS server where they can get the shorthand of their wallet addresses instead of having to copy and paste the long addresses. Any address that is registered with an ENS domain will be able to use this feature
 
